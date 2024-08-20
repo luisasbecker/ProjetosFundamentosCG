@@ -1,2 +1,2 @@
 # ProjetosFundamentosCG
-Repositório com projetos de Processamento Gráfico.
+Repositório com projetos desenvolvidos para aulda de Fundamentos de Processamento Gráfico.
